@@ -16,3 +16,4 @@ while divisioner >= b:
     divisioner = divisioner - b
     result = result + 1
 print('Целочисленное деление', a, 'на', b, 'дает', result)
+
